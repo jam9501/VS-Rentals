@@ -1,6 +1,6 @@
 # VS-Rentals
 Valley Stream Rental Prices + Analysis 
-<h2> Hey! You can download the spreadsheet and review my code if you want. I used https://www.rent.com/new-york/valley-stream/apartments_townhouses_condos_houses for the scraping. </h2>
+<h2> Hey! You can download the spreadsheet (VS_listings.csv) and review my code if you want (VS_Prices.ipynb). I used https://www.rent.com/new-york/valley-stream/apartments_townhouses_condos_houses for the scraping. </h2>
 Here's the simple analysis: 
 <h1>Median Sqft: 700.0 Sqft
 <p> Median Price per Sqft: $3.89</p></h1>
