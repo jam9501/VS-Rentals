@@ -1,6 +1,6 @@
 # VS-Rentals
 Valley Stream Rental Prices + Analysis 
-Hey! You can download the spreadsheet and review my code if you want. I used https://www.rent.com/new-york/valley-stream/apartments_townhouses_condos_houses for the scraping. 
+<h1> Hey! You can download the spreadsheet and review my code if you want. I used https://www.rent.com/new-york/valley-stream/apartments_townhouses_condos_houses for the scraping. </h1>
 Here's the simple analysis: 
 
 Median Price: $2,970.00
