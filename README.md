@@ -4,9 +4,9 @@ Valley Stream Rental Prices + Analysis
 Here's the simple analysis: 
 <h1>Median Sqft: 700.0 Sqft
 Median Price per Sqft: $3.89</h1>
-<h1>Price Statistics:
-Median Price: $2585.00
-Min Price: $1795.00
-Max Price: $4495.00
-Std Dev of Price: $642.21</h1>
+<h1>Price Statistics: 
+<p>Median Price: $2585.00</p>
+<p> Min Price: $1795.00 </p>
+<p>Max Price: $4495.00</p>
+<p>Std Dev of Price: $642.21 </p></h1>
 
